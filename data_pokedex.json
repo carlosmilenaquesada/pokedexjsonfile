@@ -31210,31 +31210,7 @@
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/876.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/876.png"
     }
-  },
-  {
-    "id": 877,
-    "name": {
-      "english": "Morpeko",
-      "japanese": "モルペコ",
-      "chinese": "莫鲁贝可",
-      "french": "Morpeko"
-    },
-    "type": ["Electric", "Dark"],
-    "species": "Two-Sided Pokémon",
-    "description": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
-    "evolution": {},
-    "profile": {
-      "height": "0 m",
-      "weight": "3 kg",
-      "gender": "50.0:50.0",
-      "ability": [["Hunger-switch", "false"]]
-    },
-    "image": {
-      "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/877.png",
-      "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/877.png"
-      "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/876.png"
-    }
-  },
+  },  
   {
     "id": 878,
     "name": {
